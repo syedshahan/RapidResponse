@@ -15,6 +15,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
+
+
+        <h1 className='title'>Rapid Response</h1>
+
+
         <div className={styles.description}>
           <p>
             Get started by editing&nbsp;
@@ -84,7 +89,7 @@ export default function Home() {
               Learn <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              Learn about Next.js an interactive course with&nbsp;quizzes!
             </p>
           </a>
 
